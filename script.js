@@ -1,5 +1,5 @@
 onload;
-alert('clear')
+alert('javascript is workg Am just testing the link PRESS OK Please')
 
 class Calculator {
     constructor(previousOperantandText, currentOperantandText) {
